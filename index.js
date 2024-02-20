@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /*
- choice of colours were based of the depicion in the vscode terminal;
+ choice of colours were based of the depiction in the vscode terminal;
  colours in the cmd will most likely look a bit different, and might,
  result in slightly reduced text readability.
 */
